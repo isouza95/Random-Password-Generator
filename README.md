@@ -12,11 +12,10 @@ Password length: Choose how long password will be. The only parameters are that 
 JavaScript, HTML, CSS
 
 ## How to run
-Step 1: Open base.html  
-Step 2: Run in live server  
-Step 3: Select the types of characters you'd like to include within password  
-Step 4: In the text box, enter how many characters you'd like your password to be.  
-Step 5: Click the "Generate Password" button.
+Step 1: Open index.html using the link   
+Step 2: Select the types of characters you'd like to include within password  
+Step 3: In the text box, enter how many characters you'd like your password to be.  
+Step 4: Click the "Generate Password" button.
 
 ## What I learned
 
