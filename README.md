@@ -1,3 +1,6 @@
+# Live Demo
+https://isouza95.github.io/Random-Password-Generator/
+
 # Random Password Generator  
 This will allow the user to generate a password with chosen values between 8 and 150 characters long
 
